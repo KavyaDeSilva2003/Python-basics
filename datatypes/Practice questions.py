@@ -35,21 +35,14 @@ print("set_var:", set_var, "Type:", type(set_var))
 x = 20
 y = 15
 
-# Equal
-print("Equal:", x == y)
+#equal
+print("Equal:", x==y)
 
-# Not Equal
-print("Not Equal:", x != y)
+#Addition
+print("Addition", x+y)
 
-# Greater Than
-print("Greater Than:", x > y)
+#subtraction
+print("subtraction", x-y)
 
-# Less Than
-print("Less Than:", x < y)
-
-# Greater Than or Equal
-print("Greater Than or Equal:", x >= y)
-
-# Less Than or Equal
-print("Less Than or Equal:", x <= y)
-
+#Divison
+print("")
