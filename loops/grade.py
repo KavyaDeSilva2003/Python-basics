@@ -5,3 +5,15 @@ if
     marks >= 65 -> B
     marks < 65 -> F
 """
+count = 1
+while (count <= 5):
+    marks = int(input("Enter marks:"))
+    if marks >= 75: 
+        print("A")
+    elif marks >= 65:
+        print("B")
+    else:
+        print("F")
+
+    count = count + 1       
+
